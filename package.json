@@ -1,6 +1,6 @@
 {
-  "name": "@zoon/rialto",
-  "version": "1.5.0",
+  "name": "danieldigitalart/rialto",
+  "version": "2.0.0",
   "description": "Manage Node resources from PHP",
   "keywords": [
     "php",
