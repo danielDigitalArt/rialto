@@ -1,5 +1,5 @@
 {
-    "name": "zoon/rialto",
+    "name": "danieldigitalart/rialto",
     "description": "Manage Node resources from PHP",
     "keywords": [
         "php",
@@ -18,10 +18,10 @@
         }
     ],
     "require": {
-        "php": "^7.2 || ^8.0",
+        "php": "^8.2",
         "clue/socket-raw": "^1.2",
         "psr/log": "^1.0 || ^2.0 || ^3.0",
-        "symfony/process": "^3.3 || ^4.0 || ^5.0 || ^6.0"
+        "symfony/process": "^7.0"
     },
     "require-dev": {
         "monolog/monolog": "^1.0 || ^2.0 || ^3.0",
