@@ -1,5 +1,5 @@
 {
-  "name": "danieldigitalart/rialto",
+  "name": "@danieldigitalart/rialto",
   "version": "2.0.0",
   "description": "Manage Node resources from PHP",
   "keywords": [
